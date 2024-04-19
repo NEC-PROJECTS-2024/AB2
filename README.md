@@ -1,11 +1,11 @@
 # Road Accident Prediction
 A Predictive Model of Road Traffic Accident.
-Team Details :
+# Team Details :
 1. M.Paramesh Reddy
 2. T.Vincent Reddy
 3. SK.Md Javeed
 
-INTRODUCTION:
+# INTRODUCTION:
 Road safety remains a critical concern for 
 governmental authorities, necessitating proactive measures 
 to address the persisting issue of traffic accidents despite 
@@ -26,5 +26,5 @@ leveraging comprehensive datasets encompassing accident,
 casualty, and vehicle information, accurate predictions 
 regarding accident severity can be achieved
 
-Dataset
+# Dataset
 Link- https://www.kaggle.com/datasets/data125661/india-road-accident-dataset
